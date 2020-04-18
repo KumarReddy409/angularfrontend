@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "AngularMay": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularMay"
+    }
+  },
+  "defaultProject": "AngularMay",
+  "cli": {
+    "analytics": "13230fcb-0d7d-4280-8a29-5e9296573a97"
+  }
 }
